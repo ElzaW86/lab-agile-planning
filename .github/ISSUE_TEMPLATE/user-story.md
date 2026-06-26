@@ -11,7 +11,7 @@ assignees: ''
 
 **I need** [function]
 
-**So that**[benefit]
+**So that** [benefit]
 
 
 ### Details and Assumptions:
