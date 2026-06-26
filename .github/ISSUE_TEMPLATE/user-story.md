@@ -7,13 +7,12 @@ assignees: ''
 
 ---
 
-** As a bakery owner**
-** I need to sale 500 cupcakes a week**
-**So that I reach my sales goal of $10,000 each month**
+**As a** [role]
+**I need**
+**So that**
 
 
 ### Details and Assumptions:
-*[Social Media Profiles are established to post marketing campaigns]
+*[document what you know]
 
 ### Acceptance Criteria:
-*[500 cupcakes a week are sold]
